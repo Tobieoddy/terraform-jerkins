@@ -1,5 +1,5 @@
 # Defining Key Name for connection
-variable "keyname" {
+variable "Keyname" {
   default     = "cba_kp" 
   description = "Name of AWS key pair"
 }
